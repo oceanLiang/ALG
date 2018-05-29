@@ -30,6 +30,7 @@ function BubbleSort(array $arr){
 var_dump(BubbleSort([4, 21, 41, 2, 53, 1, 213, 31, 21, 423]));
 
 /*
+测试结果：
 array (size=10)
   0 => int 1
   1 => int 2
