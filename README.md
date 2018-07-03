@@ -34,7 +34,7 @@
 │    │    └──  SystemSwitch.php       堆栈实现进制转换  
 │    │  
 │    └── Other 其他
-│         ├──  MonkeyKing.php         约瑟夫环
+│         ├──  MonkeySelectKing.php   猴子选大王（约瑟夫环）
 │         ├──  DynamicProgramming.php 动态规划
 │         ├──  Fibonacci.php          斐波那契数列
 │         ├──  StealingApples.php     偷苹果求余
